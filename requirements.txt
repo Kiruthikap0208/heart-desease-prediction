@@ -1,0 +1,7 @@
+streamlit==1.25.0              # Streamlit framework for the web app
+scikit-learn==1.2.2            # For machine learning models and metrics
+pandas==1.5.3                  # For data handling and manipulation
+numpy==1.23.5                  # For numerical operations
+matplotlib==3.7.1              # For visualizations
+seaborn==0.12.2                # For enhanced visualizations
+joblib==1.2.0                  # For saving and loading models
